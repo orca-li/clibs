@@ -1,0 +1,5 @@
+- libbfd
+- getopt
+- ncurses
+- cmsis
+- datasheets
